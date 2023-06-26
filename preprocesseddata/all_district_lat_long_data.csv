@@ -1,0 +1,310 @@
+Region,State,District,Latitude,Longitude
+Southern Region,Andaman and Nicobar Islands,South Andaman,11.7232031,92.7011101945954
+Southern Region,Andaman and Nicobar Islands,North and Middle Andaman,12.61123865,92.83165406414926
+Southern Region,Andaman and Nicobar Islands,Nicobar,7.0000167,93.8110528187756
+Southern Region,Andhra Pradesh,Visakhapatnam,17.7231276,83.3012842
+Southern Region,Andhra Pradesh,East Godavari,16.99842865,81.71561488059287
+Southern Region,Andhra Pradesh,Krishna,16.21399145,81.02572813603345
+Southern Region,Andhra Pradesh,Guntur,16.2915189,80.4541588
+Southern Region,Andhra Pradesh,Chittoor,13.1601048,79.15555061803596
+Southern Region,Andhra Pradesh,Anantapur,14.6546235,77.55625984224562
+Southern Region,Andhra Pradesh,Kurnool,15.8309251,78.0425373
+Southern Region,Andhra Pradesh,West Godavari,16.63713765,81.58909665667748
+Southern Region,Andhra Pradesh,Spsr Nellore,14.71875825,79.65961022770595
+Southern Region,Andhra Pradesh,Prakasam,15.6589741,79.47164372680194
+North-Eastern Region,Arunachal Pradesh,Papum Pare,27.286366649999998,93.61877159710389
+North-Eastern Region,Arunachal Pradesh,West Kameng,27.4,92.35
+North-Eastern Region,Arunachal Pradesh,East Siang,28.3,95.15
+North-Eastern Region,Arunachal Pradesh,Tawang,27.5879186,91.863733
+North-Eastern Region,Arunachal Pradesh,Changlang,27.1398402,95.7382485
+North-Eastern Region,Arunachal Pradesh,Lohit,27.8239052,95.861898
+North-Eastern Region,Arunachal Pradesh,West Siang,28.4,94.55
+North-Eastern Region,Arunachal Pradesh,Namsai,27.71403055,96.01597093953018
+North-Eastern Region,Arunachal Pradesh,Lower Dibang Valley,28.21495625,95.87877403567019
+North-Eastern Region,Arunachal Pradesh,Upper Subansiri,28.3,94.0
+North-Eastern Region,Arunachal Pradesh,Tirap,27.03016895,95.49791754505583
+North-Eastern Region,Arunachal Pradesh,Lower Subansiri,27.8,93.6
+North-Eastern Region,Assam,Kamrup Metropolitan,26.13526375,91.86167062524618
+North-Eastern Region,Assam,Dibrugarh,27.4844597,94.9019447
+North-Eastern Region,Assam,Barpeta,26.34142215,91.01674328474073
+North-Eastern Region,Assam,Nagaon,26.30414915,92.71605974430346
+North-Eastern Region,Assam,Cachar,24.758639950000003,92.88166475768219
+North-Eastern Region,Assam,Sonitpur,26.767770749999997,92.70140885850532
+North-Eastern Region,Assam,Jorhat,26.7577925,94.2079645
+North-Eastern Region,Assam,Tinsukia,27.52016575,95.5306347312879
+North-Eastern Region,Assam,Kamrup,26.14688605,91.22273972821812
+North-Eastern Region,Assam,Dhubri,26.01894625,89.94188952461522
+North-Eastern Region,Assam,Golaghat,26.40490095,94.03209112120626
+Eastern Region,Bihar,Patna,25.6093239,85.1235252
+Eastern Region,Bihar,Muzaffarpur,26.1486581,85.34001282479626
+Eastern Region,Bihar,Gaya,24.7964355,85.0079563
+Eastern Region,Bihar,Purbi Champaran,26.6465969,84.9091552
+Eastern Region,Bihar,Samastipur,25.7744929,85.86626813370123
+Eastern Region,Bihar,Bhagalpur,25.2871758,87.13033088387233
+Eastern Region,Bihar,Nalanda,25.1364914,85.44365464855682
+Eastern Region,Bihar,Darbhanga,26.08314325,86.03257096612822
+Eastern Region,Bihar,Vaishali,25.95322565,85.14457760191539
+Eastern Region,Bihar,Pashchim Champaran,27.0,84.5
+Eastern Region,Bihar,Saran,25.90835495,84.78074760594323
+Eastern Region,Bihar,Madhubani,26.350071999999997,86.22914688962271
+Northern Region,Chandigarh,Chandigarh,30.72984395,76.78414567016054
+Central Region,Chhattisgarh,Raipur,21.2380912,81.6336993
+Central Region,Chhattisgarh,Durg,21.1982964,81.40079215767969
+Central Region,Chhattisgarh,Bilaspur,21.98934025,82.10996498737376
+Central Region,Chhattisgarh,Raigarh,22.5,83.5
+Central Region,Chhattisgarh,Janjgir Champa,21.986403,82.55366063452159
+Central Region,Chhattisgarh,Korba,22.3547468,82.7110855
+Central Region,Chhattisgarh,Rajnandgaon,21.06844245,80.797077941564
+Central Region,Chhattisgarh,Surguja,23.25,83.0
+Central Region,Chhattisgarh,Baloda Bazar,21.573184750000003,82.2994820805541
+Central Region,Chhattisgarh,Mahasamund,21.19228455,82.48902633077708
+Western Region,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,20.2733946,73.0044983
+Western Region,Dadra and Nagar Haveli and Daman and Diu,Daman,20.42000485,72.86376290300566
+Western Region,Dadra and Nagar Haveli and Daman and Diu,Diu,20.718174949999998,70.93238341010638
+Northern Region,Delhi,West Delhi,28.58644805,76.97915298462692
+Northern Region,Delhi,South East Delhi,28.5444411,77.27287301731174
+Northern Region,Delhi,North West Delhi,28.737914449999998,77.01006262588218
+Northern Region,Delhi,New Delhi,28.6138954,77.2090057
+Northern Region,Delhi,Central Delhi,28.69854835,77.2193906890312
+Northern Region,Delhi,South West Delhi,28.58644805,76.97915298462692
+Northern Region,Delhi,North Delhi,28.72330795,77.26685650778668
+Northern Region,Delhi,East Delhi,28.72330795,77.26685650778668
+Northern Region,Delhi,South Delhi,28.485169399999997,77.19636520348229
+Northern Region,Delhi,Shahdara Delhi,28.6734298,77.2898858
+Southern Region,Goa,North Goa,15.60444125,74.00172406307475
+Southern Region,Goa,South Goa,15.21961365,74.1152813019196
+Western Region,Gujarat,Ahmadabad,23.0216238,72.5797068
+Western Region,Gujarat,Surat,21.2094892,72.8317058
+Western Region,Gujarat,Vadodara,22.2973142,73.1942567
+Western Region,Gujarat,Rajkot,22.3053263,70.8028377
+Western Region,Gujarat,Gandhinagar,23.2232877,72.6492267
+Western Region,Gujarat,Bharuch,21.75,73.0
+Western Region,Gujarat,Kachchh,23.583333,70.0
+Western Region,Gujarat,Mahesana,23.6015557,72.3867981
+Western Region,Gujarat,Banas Kantha,24.25,72.5
+Western Region,Gujarat,Bhavnagar,21.7718836,72.1416449
+Western Region,Gujarat,Valsad,20.43219565,73.14098929730321
+Northern Region,Haryana,Gurugram,28.4646148,77.0299194
+Northern Region,Haryana,Faridabad,28.4031478,77.3105561
+Northern Region,Haryana,Hisar,29.080640950000003,75.788754109493
+Northern Region,Haryana,Rewari,28.1956468,76.6165179
+Northern Region,Haryana,Sonipat,28.9953758,77.0233627
+Northern Region,Haryana,Panipat,29.3912753,76.9771675
+Northern Region,Haryana,Karnal,29.6803266,76.9896254
+Northern Region,Haryana,Sirsa,29.583333,75.083333
+Northern Region,Haryana,Rohtak,28.9010899,76.5801935
+Northern Region,Haryana,Bhiwani,28.7931703,76.1391283
+Northern Region,Haryana,Ambala,30.3843674,76.770421
+Northern Region,Haryana,Jhajjar,28.53364155,76.68981477716189
+Northern Region,Haryana,Palwal,28.176958900000002,77.37311203790532
+Northern Region,Himachal Pradesh,Solan,30.92589585,77.08200509063624
+Northern Region,Himachal Pradesh,Kangra,32.166667,76.25
+Northern Region,Himachal Pradesh,Shimla,31.1041526,77.1709729
+Northern Region,Himachal Pradesh,Mandi,31.6723392,76.95331690779145
+Northern Region,Himachal Pradesh,Sirmaur,30.75,77.5
+Northern Region,Himachal Pradesh,Hamirpur,31.69255285,76.54105735900994
+Northern Region,Himachal Pradesh,Kullu,32.00186325,77.37899639741332
+Northern Region,Himachal Pradesh,Una,31.583333,76.25
+Northern Region,Himachal Pradesh,Chamba,32.518429,76.23086565661742
+Northern Region,Jammu and Kashmir,Jammu,32.7185614,74.8580917
+Northern Region,Jammu and Kashmir,Srinagar,34.0747444,74.8204443
+Northern Region,Jammu and Kashmir,Baramulla,34.205005650000004,74.36221081111597
+Northern Region,Jammu and Kashmir,Budgam,33.9098746,74.6270356734338
+Northern Region,Jammu and Kashmir,Anantnag,33.7368773,75.1455138
+Northern Region,Jammu and Kashmir,Udhampur,33.0,75.166667
+Northern Region,Jammu and Kashmir,Pulwama,33.8756947,74.9003129
+Northern Region,Jammu and Kashmir,Kathua,32.4288215,75.56286458392415
+Northern Region,Jammu and Kashmir,Kupwara,34.611023599999996,74.238478667319
+Northern Region,Jammu and Kashmir,Samba,32.57591175,75.12034455530063
+Northern Region,Jammu and Kashmir,Rajouri,33.3772495,74.3132332
+Eastern Region,Jharkhand,Ranchi,23.3700501,85.3250387
+Eastern Region,Jharkhand,Dhanbad,23.7952809,86.4309638
+Eastern Region,Jharkhand,East Singhbhum,22.8092139,86.2091549
+Eastern Region,Jharkhand,Bokaro,23.699127949999998,85.99106894165021
+Eastern Region,Jharkhand,Hazaribagh,23.9675151,85.43884568595615
+Eastern Region,Jharkhand,Giridih,24.1608897,86.25113503301655
+Eastern Region,Jharkhand,Ramgarh,23.598775949999997,85.53691564663127
+Eastern Region,Jharkhand,Deoghar,24.4766423,86.60673245386945
+Eastern Region,Jharkhand,Palamu,23.916667,84.083333
+Eastern Region,Jharkhand,Saraikela Kharsawan,22.7464225,85.91689291046393
+Southern Region,Karnataka,Bengaluru Urban,12.94514225,77.55364499971128
+Southern Region,Karnataka,Mysuru,12.3051828,76.6553609
+Southern Region,Karnataka,Belagavi,15.8572666,74.5069343
+Southern Region,Karnataka,Dharwad,15.4540505,75.0066516
+Southern Region,Karnataka,Ballari,15.2485413,76.8323648
+Southern Region,Karnataka,Bengaluru Rural,13.18077825,77.34174236923371
+Southern Region,Karnataka,Dakshina Kannada,12.9324457,74.9813132
+Southern Region,Karnataka,Tumakuru,13.3400771,77.1006208
+Southern Region,Karnataka,Kalaburagi,17.166667,77.083333
+Southern Region,Karnataka,Vijayapura,16.666667,75.916667
+Southern Region,Karnataka,Kolar,13.1367201,78.1337246
+Southern Region,Kerala,Ernakulam,9.98408,76.2741457
+Southern Region,Kerala,Malappuram,11.10684475,76.10995510466662
+Southern Region,Kerala,Kozhikode,11.2450558,75.7754716
+Southern Region,Kerala,Thiruvananthapuram,8.4882267,76.947551
+Southern Region,Kerala,Thrissur,10.5256264,76.2132542
+Southern Region,Kerala,Kannur,11.8763836,75.3737973
+Southern Region,Kerala,Palakkad,10.78736915,76.47421718925105
+Southern Region,Kerala,Kottayam,9.6287383,76.64553257390992
+Southern Region,Kerala,Kollam,8.8879509,76.5955013
+Southern Region,Kerala,Alappuzha,9.5006651,76.41241428564258
+Northern Region,Ladakh,Leh Ladakh,34.1642029,77.5848133
+Northern Region,Ladakh,Kargil,34.5594418,76.1255982
+Southern Region,Lakshadweep,Lakshadweep,10.8132489,73.6804620941119
+Central Region,Madhya Pradesh,Indore,22.7203616,75.8681996
+Central Region,Madhya Pradesh,Bhopal,23.2584857,77.401989
+Central Region,Madhya Pradesh,Gwalior,26.2037247,78.1573628
+Central Region,Madhya Pradesh,Jabalpur,23.1608938,79.9497702
+Central Region,Madhya Pradesh,Ujjain,23.1885131,75.7716562
+Central Region,Madhya Pradesh,Rewa,24.756718,81.65493468694177
+Central Region,Madhya Pradesh,Sagar,23.80961225,78.75911360578634
+Central Region,Madhya Pradesh,Chhindwara,22.139831049999998,78.80964495467987
+Central Region,Madhya Pradesh,Dhar,22.5,75.25
+Central Region,Madhya Pradesh,Dewas,23.0,76.166667
+Central Region,Madhya Pradesh,Satna,24.5,81.0
+Western Region,Maharashtra,Pune,18.521428,73.8544541
+Western Region,Maharashtra,Mumbai Suburban,19.1306115,72.88619365454353
+Western Region,Maharashtra,Thane,19.1943294,72.9701779
+Western Region,Maharashtra,Nashik,20.0112475,73.7902364
+Western Region,Maharashtra,Nagpur,21.1498134,79.0820556
+Western Region,Maharashtra,Aurangabad,19.877263,75.3390241
+Western Region,Maharashtra,Mumbai,19.0785451,72.878176
+Western Region,Maharashtra,Ahmednagar,19.162772500000003,74.85802430085195
+Western Region,Maharashtra,Solapur,17.84990665,75.27632027348457
+Western Region,Maharashtra,Raigad,18.4928092,73.13807095426539
+Western Region,Maharashtra,Palghar,19.684661,72.82491116145356
+North-Eastern Region,Manipur,Imphal West,24.7991162,93.9364419
+North-Eastern Region,Manipur,Imphal East,24.85154025,94.00947957721581
+North-Eastern Region,Manipur,Thoubal,24.84529,94.1449785
+North-Eastern Region,Manipur,Bishnupur,24.6267287,93.7600454
+North-Eastern Region,Manipur,Churachandpur,24.378704,93.69700149533944
+North-Eastern Region,Manipur,Kangpokpi,25.1524326,93.9714932
+North-Eastern Region,Manipur,Kakching,24.4974827,93.9835543
+North-Eastern Region,Manipur,Ukhrul,25.0982654,94.363167
+North-Eastern Region,Manipur,Tamenglong,24.9858596,93.5039967
+North-Eastern Region,Manipur,Jiribam,24.8087217,93.1143992
+North-Eastern Region,Manipur,Chandel,24.3312009,94.0011081
+North-Eastern Region,Meghalaya,East Khasi Hills,25.40237355,91.83171775361184
+North-Eastern Region,Meghalaya,West Garo Hills,25.606314249999997,90.21139055037469
+North-Eastern Region,Meghalaya,Ri Bhoi,25.87640255,91.85675741641606
+North-Eastern Region,Meghalaya,East Jaintia Hills,25.25157605,92.48405006942016
+North-Eastern Region,Meghalaya,West Jaintia Hills,25.4425965,92.29882747091773
+North-Eastern Region,Meghalaya,South Garo Hills,25.347969,90.56577725964563
+North-Eastern Region,Meghalaya,South West Garo Hills,25.44463095,89.99696550020556
+North-Eastern Region,Meghalaya,West Khasi Hills,25.5814429,91.08510943564022
+North-Eastern Region,Meghalaya,North Garo Hills,25.8619841,90.70177048839348
+North-Eastern Region,Meghalaya,East Garo Hills,25.61849455,90.63421621777749
+North-Eastern Region,Mizoram,Aizawl,23.7435236,92.7382905
+North-Eastern Region,Mizoram,Lunglei,22.898553,92.75192291719874
+North-Eastern Region,Mizoram,Kolasib,24.18947525,92.7133181281124
+North-Eastern Region,Mizoram,Lawngtlai,22.34596495,92.8119536068969
+North-Eastern Region,Mizoram,Champhai,23.6317319,93.34931854269607
+North-Eastern Region,Mizoram,Mamit,23.75590845,92.45173568830637
+North-Eastern Region,Mizoram,Serchhip,23.385892300000002,92.930598908176
+North-Eastern Region,Mizoram,Saiha,22.4995518,92.97798988717027
+North-Eastern Region,Nagaland,Dimapur,25.911744,93.721703
+North-Eastern Region,Nagaland,Kohima,25.75,94.166667
+North-Eastern Region,Nagaland,Mokokchung,26.4795861,94.51052754768273
+North-Eastern Region,Nagaland,Mon,26.75,94.833333
+North-Eastern Region,Nagaland,Phek,25.75,94.5
+North-Eastern Region,Nagaland,Wokha,26.166667,94.25
+North-Eastern Region,Nagaland,Zunheboto,26.0,94.5
+North-Eastern Region,Nagaland,Tuensang,26.168505500000002,94.85819821659115
+North-Eastern Region,Nagaland,Peren,25.47907705,93.72563659313207
+North-Eastern Region,Nagaland,Kiphire,25.81551155,94.84166400470303
+Eastern Region,Odisha,Khordha,20.22564715,85.56059465125232
+Eastern Region,Odisha,Cuttack,20.4686,85.8792
+Eastern Region,Odisha,Ganjam,19.4129711,85.04710406447731
+Eastern Region,Odisha,Baleshwar,21.495590749999998,86.91676226378776
+Eastern Region,Odisha,Jajapur,20.827789199999998,86.37983525915192
+Eastern Region,Odisha,Sundargarh,22.13327195,83.97965279931319
+Eastern Region,Odisha,Puri,19.8076083,85.8252538
+Eastern Region,Odisha,Kendujhar,21.5892323,85.66878413736906
+Eastern Region,Odisha,Bhadrak,21.0633288,86.5053731
+Eastern Region,Odisha,Anugul,20.8411255,85.08040066385269
+Eastern Region,Odisha,Mayurbhanj,21.75,86.5
+Southern Region,Puducherry,Puducherry,11.9340568,79.8306447
+Southern Region,Puducherry,Karaikal,10.91571,79.8375761
+Southern Region,Puducherry,Yanam,16.7333666,82.2145164
+Southern Region,Puducherry,Mahe,11.7021978,75.5364701
+Northern Region,Punjab,Ludhiana,30.9090157,75.851601
+Northern Region,Punjab,Sas Nagar,30.6904366,76.7116208
+Northern Region,Punjab,Patiala,30.2090874,76.3398720856221
+Northern Region,Punjab,Amritsar,31.6343083,74.8736788
+Northern Region,Punjab,Jalandhar,31.29201065,75.56805772253911
+Northern Region,Punjab,Bathinda,30.17911535,75.04710156312628
+Northern Region,Punjab,Fazilka,30.4032097,74.0310609
+Northern Region,Punjab,Sangrur,30.135825699999998,75.8535154380713
+Northern Region,Punjab,Hoshiarpur,31.60857425,75.84644246890946
+Northern Region,Punjab,Gurdaspur,32.166667,75.316667
+Western Region,Rajasthan,Jaipur,26.9154576,75.8189817
+Western Region,Rajasthan,Alwar,27.5,76.5
+Western Region,Rajasthan,Jodhpur,26.2967719,73.0351433
+Western Region,Rajasthan,Kota,25.1737019,75.8574194
+Western Region,Rajasthan,Sikar,27.66241555,75.02799709983499
+Western Region,Rajasthan,Ajmer,26.4691,74.639
+Western Region,Rajasthan,Udaipur,24.578721,73.6862571
+Western Region,Rajasthan,Bhilwara,25.5,74.75
+Western Region,Rajasthan,Nagaur,27.0237969,74.2037201
+Western Region,Rajasthan,Jhunjhunu,28.1287995,75.3992581
+Southern Region,Tamil Nadu,Chennai,13.0836939,80.270186
+Southern Region,Tamil Nadu,Thiruvallur,13.13014755,79.92435386254968
+Southern Region,Tamil Nadu,Chengalpattu,12.6840886,79.9836371
+Southern Region,Tamil Nadu,Coimbatore,11.0018115,76.9628425
+Southern Region,Tamil Nadu,Kancheepuram,12.87960515,79.70427615297989
+Southern Region,Tamil Nadu,Salem,11.6549142,78.1584923
+Southern Region,Tamil Nadu,Tiruppur,11.1017815,77.345192
+Southern Region,Tamil Nadu,Madurai,9.9261153,78.1140983
+Southern Region,Tamil Nadu,Krishnagiri,12.5188835,78.2206536
+Southern Region,Tamil Nadu,Tiruchirappalli,10.804973,78.6870296
+Southern Region,Telangana,Hyderabad,17.360589,78.4740613
+Southern Region,Telangana,Rangareddy,17.133395399999998,78.3970978701631
+Southern Region,Telangana,Medchal Malkajgiri,17.53498345,78.52463873502381
+Southern Region,Telangana,Sangareddy,17.86859205,77.8228199507381
+Southern Region,Telangana,Warangal Urban,18.00441,79.56838
+Southern Region,Telangana,Karimnagar,18.4348122,79.1328042
+Southern Region,Telangana,Khammam,17.5,80.333333
+Southern Region,Telangana,Nalgonda,16.8579636,79.21749353315548
+Southern Region,Telangana,Nizamabad,18.75,78.25
+Southern Region,Telangana,Peddapalle,16.1722391,77.760645
+Southern Region,Telangana,Siddipet,18.005585099999998,78.89611304969961
+Southern Region,Telangana,Bhadradri Kothagudem,17.71534525,80.57149761778712
+North-Eastern Region,Tripura,West Tripura,23.916667,91.5
+North-Eastern Region,Tripura,South Tripura,23.5,91.666667
+North-Eastern Region,Tripura,Sepahijala,23.53074455,91.30156539030573
+North-Eastern Region,Tripura,Gomati,23.4613369,91.60718003817723
+North-Eastern Region,Tripura,North Tripura,24.092147599999997,92.24512135019847
+North-Eastern Region,Tripura,Dhalai,23.8253158,91.9732226716333
+North-Eastern Region,Tripura,Khowai,24.04673835,91.62320953646798
+North-Eastern Region,Tripura,Unakoti,24.3167458,92.06650224339185
+Central Region,Uttar Pradesh,Gautam Buddha Nagar,28.36759325,77.59744768658177
+Central Region,Uttar Pradesh,Lucknow,26.8381,80.9346001
+Central Region,Uttar Pradesh,Ghaziabad,28.6711527,77.4120356
+Central Region,Uttar Pradesh,Prayagraj,25.4381302,81.8338005
+Central Region,Uttar Pradesh,Kanpur Nagar,26.4402119,80.26930513416637
+Central Region,Uttar Pradesh,Varanasi,25.3356491,83.0076292
+Central Region,Uttar Pradesh,Agra,27.1752554,78.0098161
+Central Region,Uttar Pradesh,Gorakhpur,26.6711433,83.36457243864551
+Central Region,Uttar Pradesh,Meerut,29.000652549999998,77.76822875372174
+Central Region,Uttar Pradesh,Bareilly,28.416667,79.383333
+Northern Region,Uttarakhand,Dehradun,30.3255646,78.0436813
+Northern Region,Uttarakhand,Haridwar,29.9384473,78.1452985
+Northern Region,Uttarakhand,Udham Singh Nagar,29.048098799999998,79.4313133223357
+Northern Region,Uttarakhand,Nainital,29.29478295,79.41548093726253
+Northern Region,Uttarakhand,Pauri Garhwal,29.84591115,78.70766746320547
+Northern Region,Uttarakhand,Tehri Garhwal,30.5,78.666667
+Northern Region,Uttarakhand,Almora,29.703094999999998,79.43317023326716
+Northern Region,Uttarakhand,Pithoragarh,29.585871,80.215167
+Northern Region,Uttarakhand,Chamoli,30.5,79.5
+Northern Region,Uttarakhand,Uttarkashi,30.7291049,78.4403495
+Eastern Region,West Bengal,North 24 Parganas,22.692681450000002,88.66111746099942
+Eastern Region,West Bengal,Kolkata,22.5726459,88.3638953
+Eastern Region,West Bengal,Murshidabad,24.1745993,88.2721335
+Eastern Region,West Bengal,Hooghly,22.910891749999998,88.01063387899092
+Eastern Region,West Bengal,South 24 Parganas,22.1815262,88.54843766912074
+Eastern Region,West Bengal,Paschim Bardhaman,23.64260775,87.16444149728576
+Eastern Region,West Bengal,Howrah,22.5736296,88.3251045
+Eastern Region,West Bengal,Nadia,23.4836184,88.55570832329447
+Eastern Region,West Bengal,Purba Medinipur,22.06217445,87.83672383486115
+Eastern Region,West Bengal,Paschim Medinipur,22.3599134,87.41331447600871
+Eastern Region,West Bengal,Purba Bardhaman,23.391717,87.90621212355462
