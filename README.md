@@ -59,7 +59,7 @@ The project consists of the following files:
 
 The data used in the PhonePe Pulse project is sourced from PhonePe's transaction and user records. The data is stored in CSV format and preprocessed before visualisations are used.
 
-## Flow-of-the-Code
+## Flow of the Code
 
 1. The `phonepeStreamlitt.py` script sets up the Streamlit application and defines the layout and user interface.
 2. The user can navigate between different sections, including the home page, dashboard, and contact page.
