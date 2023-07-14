@@ -42,7 +42,7 @@ streamlit run phonepeStreamlitt.py
 
 This will launch the project's user interface on your local machine, allowing you to interact with the visualizations and explore the data.
 
-## File-Descriptions
+## File Descriptions
 
 The project consists of the following files:
 
@@ -55,7 +55,7 @@ The project consists of the following files:
 - `data/`: A directory containing the data files used in the project.
 - `preprocessed/`: A directory containing all processed dataframes exported as .CSV files
 
-## Data-Sources
+## Data Sources
 
 The data used in the PhonePe Pulse project is sourced from PhonePe's transaction and user records. The data is stored in CSV format and preprocessed before visualisations are used.
 
